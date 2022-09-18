@@ -199,7 +199,7 @@ body {
   margin: 0;
   padding: 0;
   background: #fefefe;
-  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; 
+  font-family: "Georgia", -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; 
   font-weight: normal;
   line-height: 1.5;
   color: #0a0a0a;
@@ -2358,7 +2358,8 @@ kbd {
   font-weight: normal;
   line-height:0.9!important;
   color: #8a8a8a; 
-  font-style: italic;}
+  font-style: italic;
+  font-family: "Georgia", serif;}
 .lead {
   font-size: 125%;
   line-height: 1.6; }
