@@ -29,6 +29,10 @@ footer {
   text-align: center;
   color: #555;
   font-weight: bold;}
+
+footer p {
+  font-family: monospace;
+}
 h1 {
   font-size: 3em;
   margin: 0.67em 0; }
