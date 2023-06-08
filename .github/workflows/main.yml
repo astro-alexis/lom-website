@@ -14,4 +14,4 @@ jobs:
         server: ftpcluster.loopia.se
         username: lomwebmaster
         password: ${{ secrets.ftp_password }}
-        local-dir: "/lom.nu/public_html/"
+        server-dir: "/lom.nu/public_html/"
